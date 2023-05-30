@@ -20,3 +20,5 @@
 
 *git checkout {branch_name}* – переход к другой ветке с именем {branch_name}
 
+
+*git checkout {branch_name}* – переход к другой ветке с именем {branch_name}
