@@ -25,3 +25,5 @@
 
 
 *git branch -d {branch_name}*– удалить ветку под названием branch_name
+
+*git checkout -b {branch_name}* - создание ветки и переход к ней 
